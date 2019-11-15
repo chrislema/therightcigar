@@ -1,6 +1,6 @@
 .navigation {
   display: flex;
-  justify-content: right;
+  text-align: right;
   list-style: none;
   padding: 0;
   margin: 0;
@@ -11,7 +11,7 @@
 
 .navigationItem {
   display: inline-flex;
-  align-items: right;
+  align-items: center;
   margin: 0 1em;
 }
 
