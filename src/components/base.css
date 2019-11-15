@@ -32,9 +32,8 @@ a {
 }
 
 .wrapper {
-  width: calc(100% - 10vmin);
   margin: 0 auto;
-  padding: 60px;
+  padding: 60px 30px;
 }
 
 /**
